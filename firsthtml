@@ -6,7 +6,7 @@
             font-family: 'Arial', sans-serif;
             margin: 20px;
             padding: 20px;
-            background-color: #f4f4f4;
+            background-color: #003e5b;
         }
     </style>
 </head>
@@ -25,7 +25,7 @@
     
     <section>
         <h2>Your Major</h2>
-        <p>I graduated with a Bachelor's of Science Degree and studied Marketing Management with a minor in Communications.</p>
+        <p>I graduated with a Bachelor's of Science Degree from Grove City College and studied Marketing Management with a minor in Communications.</p>
     </section>
     
     <section>
@@ -35,18 +35,25 @@
     
     <section>
         <h2>Software Development Background</h2>
-        <p>My software development background is very limited. As mentioned above, I work at an integration company that to me, is pretty complex to learn.  I've done a good amount of trainings specific to Boomi such as learning how to set up integration processes, managing APIs, SQL courses, but I am no expert. I would say I understand the concepts but have little to no experience of developing software.</p>
+        <p>My software development background is very limited. As mentioned above, I work at an integration company that to me, is pretty complex to learn.  I've done a good amount of trainings specific to Boomi such as learning how to set up integration processes, managing APIs, SQL courses, but I am no expert when it comes to software development. I would say I understand the concepts but have little to no experience of developing software.</p>
     </section>
     
     <section>
         <h2>Why You Wanted to Take This Course</h2>
-        <p>Here are a few reasons why I wanted to take the course.  1)I'm taking several courses at HES to gain my "Introduction to Web Development" certification.  My main reason for gaining the certification is to gain credibility and knowledge when speaking with external customers and our internal engineering team, and that it will set me apart from other Product Managers for having more technical knowledge. 2) It's relevant to the product I work on today so I believe it will help me in my current job.  3) There's various tools I use that require a little bit of code knowledge like Pendo for instance that would be helpful for me to know.  4. I have a desire to start my own business someday and believe knowing how to code a website, web application or app is very important.</p>
+        <p>Here are a few reasons why I wanted to take the course. 
+            <ol>
+            <li>I'm taking several courses at HES to gain my "Introduction to Web Development" certification.  My main reason for gaining the certification is to gain credibility and knowledge when speaking with external customers and our internal engineering team, and that it will set me apart from other Product Managers for having more technical knowledge.</li>
+            <li>It's relevant to the product I work on today so I believe it will help me in my current job.</li>
+            <li>There's various tools I use that require a little bit of code knowledge like Pendo for instance that would be helpful for me to know.</li>
+            <li> I have a desire to start my own business someday and believe knowing how to code a website, web application or app is very important. </li>
+            </ol>    
+        </p>
     </section>
     
     <section>
         <h2>Favorite Place Image</h2>
-        <img src="path/to/your/image.jpg" alt="Favorite Place Image">
-        <p> I spent a semester in Spain my senior year of college and it's super hard for me to pick one place in Spain. I picked Barcelona as it has everything: ocean, mountains, city, delicious food, shopping, entertainment, etc.!
+        <img src="https://www.thetrainline.com/cms/media/5692/spain-barcelona-sagrat-cor-tibidabo.jpg?mode=crop&width=860&height=574&quality=70" alt="Favorite Place Image">
+        <p> I spent a semester in Spain my senior year of college and it's super hard for me to pick one place in Spain. I picked Barcelona as it has everything: ocean, mountains, city, delicious food, shopping, entertainment, etc. but can't go wrong with many places in Spain!
     </section>
     
     <section>
