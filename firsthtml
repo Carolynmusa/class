@@ -1,6 +1,50 @@
 <html>
 <head>
-Hi!
+    <title> Assignment 1: Deploy a webpage on Github</title>
 </head>
-<title>
+<body>
+    <h1>About Me</h1>
+    
+    <section>
+        <h2>Your First Name</h2>
+        <p>Carolyn</p>
+    </section>
+    
+    <section>
+        <h2>Where You Grew Up</h2>
+        <p>I grew up in Erie, PA but now live in Austin, Texas.</p>
+    </section>
+    
+    <section>
+        <h2>Your Major</h2>
+        <p>I graduated with a Bachelor's of Science Degree and studied Marketing Management with a minor in Communications.</p>
+    </section>
+    
+    <section>
+        <h2>Web Development Background</h2>
+        <p>My web development background is pretty limited. I work for an Integration company named Boomi and work as a Product Mananger supporting our low code app development product.  I have had a good amount of exposure to web development terms given the product I help support from a strategy, roadmap, customer feedback lense.  Given that our product allows for code, I have done super minimal coding like stylistic changes and typically have to follow documentation to guide me. :) </p>
+    </section>
+    
+    <section>
+        <h2>Software Development Background</h2>
+        <p>My software development background is very limited. As mentioned above, I work at an integration company that to me, is pretty complex to learn.  I've done a good amount of trainings specific to Boomi such as learning how to set up integration processes, managing APIs, SQL courses, but I am no expert. I would say I understand the concepts but have little to no experience of developing software.</p>
+    </section>
+    
+    <section>
+        <h2>Why You Wanted to Take This Course</h2>
+        <p>Here are a few reasons why I wanted to take the course.  1)I'm taking several courses at HES to gain my "Introduction to Web Development" certification.  My main reason for gaining the certification is to gain credibility and knowledge when speaking with external customers and our internal engineering team, and that it will set me apart from other Product Managers for having more technical knowledge. 2) It's relevant to the product I work on today so I believe it will help me in my current job.  3) There's various tools I use that require a little bit of code knowledge like Pendo for instance that would be helpful for me to know.  4. I have a desire to start my own business someday and believe knowing how to code a website, web application or app is very important.</p>
+    </section>
+    
+    <section>
+        <h2>Favorite Place Image</h2>
+        <img src="path/to/your/image.jpg" alt="Favorite Place Image">
+        <p> I spent a semester in Spain my senior year of college and it's super hard for me to pick one place in Spain. I picked Barcelona as it has everything: ocean, mountains, city, delicious food, shopping, entertainment, etc.!
+    </section>
+    
+    <section>
+        <h2>Favorite Restaurant</h2>
+        <p><a href="https://uchiko.uchirestaurants.com/location/austin/" target="_blank">Visit My Favorite Restaurant</a></p>
+    </section>
+    
+</body>
 </html>
